@@ -5,7 +5,7 @@ This code implements LBLD algorithm, a fast and non-overlapping community detect
 
 We have used neighboring list structure as the input file for algorithm. The execution of the LBLD is so simple.it is only needed to write the name of the dataset to run the algorithm.
 
-Everything is built to run the algorithm (such as pathes to folders and files) and it is only needed to put the extracted folders of: "datasets","groundtruth" in one folder with the source code.
+Everything is built to run the algorithm (such as pathes to folders and files) and it is only needed to put the extracted folders of: "datasets","groundtruth" in one folder with the source code. in order to save the labels of nodes to a file, it is needed to create "results" folder in the same folder of source code.
 
 To execute algorithm jupyter notebook or any other platform  which runs python can be used. The main configurations of LBLD are as follows:
 
