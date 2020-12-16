@@ -56,7 +56,3 @@ DBLP
 Amazon
 
 Youtube
-
-orkut
-
-Livejournal
