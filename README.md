@@ -7,6 +7,9 @@ We have used neighboring list structure as the input file for algorithm. The exe
 
 Everything is built to run the algorithm (such as pathes to folders and files) and it is only needed to put the extracted folders of: "datasets","groundtruth" in one folder with the source code. in order to save the labels of nodes to a file, it is needed to create "results" folder in the same folder of source code.
 
+# update:
+File "groundtruth2" contains groundtruth files for two big datasets: "livejournal" and "orkut" and file "nodes_map" contains map of nodes for both of two dataseets. after downloading these two files, the contents can be pasted to the same folder of other datasets. 
+
 To execute algorithm jupyter notebook or any other platform  which runs python can be used. The main configurations of LBLD are as follows:
 
 ```
